@@ -1,7 +1,7 @@
                     
 # Python 'Hello world' program
 
-print("Hello world")
+print("hola Menorca")
 
 
 
